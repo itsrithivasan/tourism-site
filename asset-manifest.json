@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tourism-site/static/css/main.fa18ee50.css",
+    "main.js": "/tourism-site/static/js/main.b81309c6.js",
+    "static/media/video.mp4": "/tourism-site/static/media/video.c70a61dc2a6cba2f23f4.mp4",
+    "static/media/video2.mp4": "/tourism-site/static/media/video2.6b993a84337133e29b3a.mp4",
+    "static/media/img4.jpg": "/tourism-site/static/media/img4.9dfcc1e0ed22703665e1.jpg",
+    "static/media/img(2).jpg": "/tourism-site/static/media/img(2).86a4fc2e0e048a940c28.jpg",
+    "static/media/img3.jpg": "/tourism-site/static/media/img3.2884396793793a93bc98.jpg",
+    "static/media/img5.jpg": "/tourism-site/static/media/img5.6ba6985658c33b293fe0.jpg",
+    "static/media/img6.jpg": "/tourism-site/static/media/img6.0a4075aa0061e32d1276.jpg",
+    "static/media/img8.jpg": "/tourism-site/static/media/img8.1c3725e9b4695fb54761.jpg",
+    "static/media/img9.jpg": "/tourism-site/static/media/img9.7aaeca914e236703eb21.jpg",
+    "static/media/img7.jpg": "/tourism-site/static/media/img7.09d8082bdf8199122806.jpg",
+    "index.html": "/tourism-site/index.html",
+    "main.fa18ee50.css.map": "/tourism-site/static/css/main.fa18ee50.css.map",
+    "main.b81309c6.js.map": "/tourism-site/static/js/main.b81309c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa18ee50.css",
+    "static/js/main.b81309c6.js"
+  ]
+}
